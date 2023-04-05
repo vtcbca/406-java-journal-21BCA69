@@ -1,7 +1,7 @@
 import java.awt.*;
 import java.applet.*;
 
-
+//<applet code="PRG_08.class" height="800" width="1860"> </applet>
 
 public class pro_11 extends Applet 
 {
